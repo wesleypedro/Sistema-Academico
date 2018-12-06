@@ -21,10 +21,10 @@ O sistema tem como propósito implementar algo que se assemelhe a um sistema pro
 ##### Instruções para execução
 **Requisito:** possuir um compilador gcc instalado na máquina a ser executado.
 
-> As instruções aqui apresentadas são mais voltadas para execução em terminais Linux, apesar de uma certa parte poder ser executadas no Windows também.
+	As instruções aqui apresentadas são mais voltadas para execução em terminais Linux, apesar de uma certa parte poder ser executadas no Windows também.
 * Para que o sistema possa rodar, é necessário que todos os seus arquivos estejam na mesma estutura apresentada aqui, bem como completos e seguir as seguintes instruções:
     * Abra uma janela do terminal na pasta em que se encontra as classes do programa.
-    * Compile os arquivos `*.h` com o seguinte comando:
+    * Compile os arquivos `*.c` com o seguinte comando:
         `gcc -c main.c Academico.c`.
     * Em seguinda, monte os arquivos `*.o` para formar o executável com o seguinte comando: 
         `gcc -o main main.o Academico.o`.
