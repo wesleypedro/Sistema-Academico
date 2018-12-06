@@ -11,7 +11,8 @@ O sistema tem como propósito implementar algo que se assemelhe a um sistema pro
 3. O usuário pode cadastrar disciplinas.
 4. O usuário pode remover disciplinas.
 5. O usuário pode matricular o aluno na disciplina.
-6. O usuário pode emitir relatório de aprovados e reprovados.
+6. O usuário pode cadastrar as notas e falta de um determinado aluno em uma determinada disciplina que ele esteja associado.
+7. O usuário pode emitir relatório de aprovados e reprovados.
 
 ### Restrições de implementação do sistema
 * O sistema deve ser implementado usando a linguagem C.
