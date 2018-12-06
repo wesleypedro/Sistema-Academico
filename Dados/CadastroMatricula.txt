@@ -1,0 +1,27 @@
+2
+FP001
+Fundamentos de Programação
+1
+6.00
+10.00
+-1.00
+-1.00
+-1.00
+8.00
+1
+4
+Aprovado
+Notas acima da média
+FP001
+Fundamentos de Programação
+3
+8.00
+10.00
+-1.00
+-1.00
+-1.00
+9.00
+1
+0
+Aprovado
+Notas acima da média
