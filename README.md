@@ -19,15 +19,15 @@ O sistema tem como propósito implementar algo que se assemelhe a um sistema pro
 * O sistema deve possuir  um sistema de arquivos que guarde o que foi alterado pelo usuário para que deva ter continuidade quando for executar novamente.
 * O sistema deve armazenar os dados em structs durante o tempo de execução.
 
-##### Instruções para execução
+#### Instruções para execução
 **Requisito:** possuir um compilador gcc instalado na máquina a ser executado.
 
-	As instruções aqui apresentadas são mais voltadas para execução em terminais Linux, apesar de uma certa parte poder ser executadas no Windows também.
+```As instruções aqui apresentadas são mais voltadas para execução em terminais Linux, apesar de uma certa parte poder ser executadas no Windows também.```
 * Para que o sistema possa rodar, é necessário que todos os seus arquivos estejam na mesma estutura apresentada aqui, bem como completos e seguir as seguintes instruções:
     * Abra uma janela do terminal na pasta em que se encontra as classes do programa.
     * Compile os arquivos `*.c` com o seguinte comando:
-        `gcc -c main.c Academico.c`.
+        `$ gcc -c main.c Academico.c`.
     * Em seguinda, monte os arquivos `*.o` para formar o executável com o seguinte comando: 
-        `gcc -o main main.o Academico.o`.
+        `$ gcc -o main main.o Academico.o`.
     * Ainda no terminal, execute o programa com a seguinte linha de comando:
-        `./main`.   
+        `$ ./main`.
